@@ -1,0 +1,6 @@
+{
+  "name": "MentorDev OpenRouter Chat",
+  "description": "A production-grade Web AI Chatbot powered by OpenRouter API, featuring multi-model support, session persistence, and markdown rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
